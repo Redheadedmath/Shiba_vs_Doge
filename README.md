@@ -1,3 +1,6 @@
+<h1 align="center">
+ <img src="Resources/Images/icon.jpeg" alt="Shiba vs Doge" />
+</h1>
 # Shiba_vs_Doge
 My exploration into meme cryptos <br />
 Ed. 1
