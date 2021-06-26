@@ -2,17 +2,6 @@
  <img src="Resources/Images/icon.jpeg" alt="Shiba vs Doge" />
 </h1>
 
-<h2>
-
-```diff
-- red
-+ green
-! orange
-# gray
-```
-
-</h2>
-
 # Shiba_vs_Doge
 My exploration into meme cryptos <br />
 Ed. 1
@@ -21,13 +10,13 @@ I've been itching for my next side project, and I think I've found it in this. M
 ### Goals
 In no particular order, here are the milestones that I am currently aiming for. 
 <ul>
-  <li> <strong>+ In process: + </strong>Create an automated web scraper that regularly gathers information about the meme stocks Shiba Inu and Dogecoin, and established crypto Etherium.</li>
+  <li> <p style="color:green"><strong>In process: </strong></p>Create an automated web scraper that regularly gathers information about the meme stocks Shiba Inu and Dogecoin, and established crypto Etherium.</li>
   <li> Create dataframes to analyze the performance of these cryptos over time and generate various visualizations to demonstrate and compare cryptos.</li>
   <li> Utilize ML to analyze and attempt to model the various cryptos current/possible future behavior. (Given their volatile nature I expect this will be like exploring chaos theory--locally predictable, long-term who knows?) See future steps for additional thoughts.</li>
   <li> Create a dashboard to illustrate these findings.</li> 
 </ul> 
   
-## + In Process +
+## In Process 
 <ul>
   <li>Compiling initial sources for data points.</li>
   <li>Building initial scraper to gather data points to-date (25 June 2021).</li>
