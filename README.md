@@ -19,15 +19,21 @@ In no particular order, here are the milestones that I am currently aiming for.
 ## &#10071;&#9758; In Process 
 
 <ul>
-  <li>Compiling initial sources for data points.</li>
+  <li>&#9989; Compiling initial sources for data points.</li>
   <li>Building initial scraper to gather data points to-date (25 June 2021).</li>
   <li>Compiling dataframes for to-date (25 June 2021) and deciding on data storage</li>
   <li>Modify scraper for gathering future data points (post 25 June 2021).</li>
   <li>Automate mining process.</li>
 </ul>
 
+## &#9989; Completed
+<ul>
+  <li> Initial data source for scraper: https://www.coinmarketcap.com </li>
+</ul>
+
 ## Resources
 1. For context, and banner credit: *War of Cryptocurrencies : Shiba Inu (SHIB) VS Dogecoin (DOGE)* https://steemit.com/bitcoin/@murliwala/war-of-cryptocurrencies-shiba-inu-shib-vs-dogecoin-doge
+2. Data source 1: https://www.coinmarketcap.com
   
 ## Future Steps
 1. I am curious if other variables that can have high impact on cryptos can be explained within this project. Specifically, I am curious if I can describe the impact of Elon Musk tweets on performance--perhaps even allow for that in the modeling process. This is currently already an ambitious project and this would take it to another level. 
